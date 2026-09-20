@@ -12,7 +12,7 @@ export default function Header() {
     <header className={styles.header}>
       <div className={styles.inner}>
         <Link href="/" className={styles.brand}>
-          MiSitio
+          Hello World
         </Link>
         <nav className={styles.nav}>
           {NAV_LINKS.map((link) => (
