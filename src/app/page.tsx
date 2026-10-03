@@ -8,6 +8,7 @@ export default function Home() {
     dateStyle: "long",
     timeStyle: "medium",
   });
+  console.log(`Portada renderizada a las ${renderedAt}`);
 
   return (
     <main className={styles.main}>
