@@ -1,6 +1,0 @@
-web:
-  src: .
-  lang: nodejs
-  framework: nextjs
-  environment:
-    NODE_ENV: production
